@@ -9,7 +9,7 @@ import (
 )
 
 // 身份证信息
-type idInfo struct {
+type IdInfo struct {
 	AddressCode   int
 	Abandoned     int
 	Address       string
